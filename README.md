@@ -11,3 +11,7 @@ sudo apt install ./roblox-linux-client_0.1.0_amd64.deb
 rlc-client --keep-open
 
 cat ~/.local/state/roblox-linux-client/logs/client.log
+
+
+
+sudo apt install ~/Downloads/roblox-linux-client*.deb
