@@ -19,3 +19,9 @@ sudo apt install ~/Downloads/roblox-linux-client*.deb
 
 
 apt-get update && apt install -y ~/Downloads/roblox-linux-client_0.1.1_amd64.deb
+
+
+
+https://github.com/libsdl-org/SDL/releases/download/release-3.2.0/SDL3-3.2.0.tar.gz
+
+apt install -y ~/Downloads/roblox-linux-client_0.1.2_amd64.deb
